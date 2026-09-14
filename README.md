@@ -14,5 +14,4 @@ SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQ
 * Azure Data Factory
 * Azure Blob Storage
 * Azure SQL Database 
-* SQL Server Management Studio 
 * GitHub
