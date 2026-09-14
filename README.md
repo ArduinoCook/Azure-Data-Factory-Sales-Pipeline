@@ -29,3 +29,9 @@ SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQ
 ![Azure resources](Azure%20Data%20Pipelines%20Screen%20Prints/04-ADF-Pipeline-Success.png)
 
 ![Azure resources](Azure%20Data%20Pipelines%20Screen%20Prints/05-Azure-SQL-SalesTransactions-Data.png)
+
+## What I learned
+
+* How to connect Blob Storage to ADF and use a copy activity.
+* Schema and mapping basics for CSV to SQL.
+* Importance of exact file naming in documentation.
