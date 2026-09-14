@@ -8,3 +8,11 @@ This project demonstrates an Azure Data Factory pipeline that moves sales transa
 ## Pipeline Architecture
 
 SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQL Database.
+
+## Technologies used
+
+* Azure Data Factory
+* Azure Blob Storage
+* Azure SQL Database 
+* SQL Server Management Studio 
+* GitHub
