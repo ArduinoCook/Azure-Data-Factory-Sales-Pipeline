@@ -22,7 +22,7 @@ SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQ
 
 ![Azure resources](Azure%20Data%20Pipelines%20Screen%20Prints/01-Azure-Resources.png)
 
-![Azure resources](Azure%20Data%20Pipelines%20Screen%20Prints/02-ADF Pipeline Source.png)
+![ADF pipeline source](Azure%20Data%20Pipelines%20Screen%20Prints/02-ADF-Pipeline-Source.png)
 
 ![Azure resources](Azure%20Data%20Pipelines%20Screen%20Prints/03-ADF-Pipeline-Sink.png)
 
