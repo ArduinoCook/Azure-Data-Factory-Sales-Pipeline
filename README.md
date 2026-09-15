@@ -35,3 +35,7 @@ SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQ
 * How to connect Blob Storage to ADF and use a copy activity.
 * Schema and mapping basics for CSV to SQL.
 * Importance of exact file naming in documentation.
+
+## Project files
+
+- SalesTransactions
