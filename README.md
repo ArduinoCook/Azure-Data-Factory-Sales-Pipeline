@@ -38,4 +38,4 @@ SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQ
 
 ## Project files
 
-- SalesTransactions
+* [SalesTransactions.csv](SalesTransactions.csv)
