@@ -39,3 +39,6 @@ SalesTransactions.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQ
 ## Project files
 
 * [SalesTransactions.csv](SalesTransactions.csv)
+
+Sample source data used by the Azure Data Factory pipeline.
+
